@@ -44,7 +44,11 @@
 - Step 4 的每個論證單位均含：
   - 空雨傘（McKinsey）
   - 需根解損（Need / Root / Solve / Trade-off）
-  - 三層遞迴論證鏈
+  - Argument Tree（自適應展開模型）
+    - Level 1：Claim / Warrant / Impact
+    - Level 2：僅在需要時展開 Backing
+    - Level 3：僅在高風險或核心論點展開 Sub-warrant
+    - 至少 30% 論點停留在 Level 1，避免過度展開
   - 根屬性
   - 解決力
   - 損益比
@@ -52,6 +56,7 @@
   - 可攻擊點
   - 強度預估
   - 重複風險
+  - 因果削弱與致命漏洞
   - 論證鏈詳述（500字以上）
 
 ## 重要界定

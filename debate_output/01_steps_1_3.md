@@ -242,3 +242,5 @@
 \]
 
 故 Step 4 將完整輸出 **54 個論證單位**，並依「維度1」拆為 3 個 Batch。
+
+每個論證單位的第三節採 **Argument Tree（自適應展開模型）**：所有論點必輸出 Level 1（Claim / Warrant / Impact），再依直覺程度、攻擊風險與是否為核心論點，選擇是否展開 Level 2（Backing）或 Level 3（Sub-warrant）。至少 30% 論點停留在 Level 1，避免把低風險論點也過度展開。
