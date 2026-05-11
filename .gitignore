@@ -30,3 +30,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Python ###
+__pycache__/
+*.py[cod]
+.venv/
+
+### Local environment ###
+.env
+
+### Local IDE runtime data ###
+.idea/firebender/
